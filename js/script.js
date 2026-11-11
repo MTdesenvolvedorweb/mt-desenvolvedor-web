@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
      1. CONSTANTE PROFISSIONAL DO WHATSAPP
      Esta é a única fonte da verdade para o número de contato em todo o site.
      ========================================================================== */
-  const WHATSAPP_NUMBER = "5521992702769";
+  const WHATSAPP_NUMBER = "5521966699971";
   const DEFAULT_MESSAGE = "Olá! Encontrei seu portfólio e gostaria de conversar sobre a criação de um site.";
 
   // Aplica a lógica em todos os botões que possuam a classe 'wpp-btn'
